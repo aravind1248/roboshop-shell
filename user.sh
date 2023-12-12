@@ -1,4 +1,3 @@
-component = catalogue
+component = user
 source common.sh
 nodejs
-
